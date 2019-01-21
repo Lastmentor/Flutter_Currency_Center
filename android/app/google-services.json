@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "386342261044",
+    "firebase_url": "https://esfsf-a749e.firebaseio.com",
+    "project_id": "esfsf-a749e",
+    "storage_bucket": "esfsf-a749e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:386342261044:android:0da49d18b1ba4318",
+        "android_client_info": {
+          "package_name": "com.lastmentorcurrency.fluttercurrency"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "386342261044-7jrfcgrul49st4tp1i5pbhpd5uets6qg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnNfp6lZ-9ttfVQrBGfEYTL_XzoT9BSDU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

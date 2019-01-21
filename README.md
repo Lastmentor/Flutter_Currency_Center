@@ -1,2 +1,8 @@
-# Flutter_Currency_Center
-With Flutter Currency Center you can check currency rates, exchange money and see banknotes.
+# flutter_currency
+
+A new Flutter application.
+
+## Getting Started
+
+For help getting started with Flutter, view our online
+[documentation](https://flutter.io/).
